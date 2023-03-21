@@ -20,9 +20,5 @@
             android:id="@+id/nav_albums"
             android:icon="@drawable/ic_menu_albums"
             android:title="Albums" />
-        <item
-            android:id="@+id/nav_heart"
-            android:icon="@drawable/ic_menu_heart"
-            android:title="Heart Analyser" />
     </group>
 </menu>
