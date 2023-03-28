@@ -19,7 +19,7 @@
             android:foreground="?android:attr/actionBarItemBackground"
             android:onClick="shuffleSongs"
             android:padding="12dp"
-            android:src="@drawable/ic_shuffle" />
+            android:src="@drawable/ic_baseline_shuffle" />
 
 
         <ImageView
@@ -31,7 +31,7 @@
             android:foreground="?android:attr/actionBarItemBackground"
             android:onClick="handleSearchBarVisibility"
             android:padding="12dp"
-            android:src="@drawable/ic_round_search" />
+            android:src="@drawable/ic_baseline_search" />
 
         <ImageView
             android:layout_width="0dp"

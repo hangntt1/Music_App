@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="in.sensemusic.sense.fragments.AboutFragment"
+    tools:context=""
     android:id="@+id/frame_about">
 
 
@@ -45,7 +45,7 @@
         android:layout_below="@+id/imageView2"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="25dp"
-        android:text="@string/app_version"
+        android:text="HPT Music"
         android:textSize="17sp"/>
 
 </RelativeLayout>
